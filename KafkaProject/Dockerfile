@@ -1,0 +1,1 @@
+RUN chmod +x /opt/airflow/script/entrypoint.sh
